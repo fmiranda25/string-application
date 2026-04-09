@@ -21,7 +21,7 @@ public class VariableApp {
         byte daysInTheWeek = 7;
         System.out.println(daysInTheWeek);
 
-        float coffeePrice = 4.99;
+        float coffeePrice = 4.99F;
         System.out.println(coffeePrice);
 
         char favLetter = 'E';
@@ -29,16 +29,6 @@ public class VariableApp {
 
         boolean isRaining = false;
         System.out.println(isRaining);
-
-
-
-
-
-
-
-
-
-
 
     }
 }
